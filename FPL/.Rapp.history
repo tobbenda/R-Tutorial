@@ -1,0 +1,2 @@
+mydata = read.csv("gw39_data_test.csv")  # read csv file
+mydata
